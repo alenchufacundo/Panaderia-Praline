@@ -170,11 +170,11 @@ header .menu-bar-movil .slideMenu .menu-principal a {
   width: 50%;
 }
 .main .portada .col .foto.izq {
-  background-image: url('/img/portada2.jpg');
+  background-image: url('../img/portada2.jpg');
   background-position: left;
 }
 .main .portada .col .foto.der {
-  background-image: url('/img/portada1.jpg');
+  background-image: url('../img/portada1.jpg');
   opacity: 0.8;
 }
 .main .portada .col .foto .overlay {
@@ -219,11 +219,11 @@ header .menu-bar-movil .slideMenu .menu-principal a {
   background-position: center;
 }
 .main .portada .col .foto-full.izq {
-  background-image: url('/img/portada3.jpg');
+  background-image: url("../img/portada3.jpg");
   opacity: 0.8;
 }
 .main .portada .col .foto-full.der {
-  background-image: url('/img/portada4.jpg');
+  background-image: url('../img/portada4.jpg');
 }
 .main .portada .col .foto-full .overlay {
   opacity: 0;
@@ -335,19 +335,19 @@ header .menu-bar-movil .slideMenu .menu-principal a {
   background-position: center;
 }
 .main .local .container .col .slider .slide.foto1 {
-  background-image: url("/img/local1.jpg");
+  background-image: url("../img/local1.jpg");
 }
 .main .local .container .col .slider .slide.foto2 {
-  background-image: url("/img/local5.jpg");
+  background-image: url("../img/local5.jpg");
 }
 .main .local .container .col .slider .slide.foto3 {
-  background-image: url("/img/local3.jpg");
+  background-image: url("../img/local3.jpg");
 }
 .main .local .container .col .slider .slide.foto4 {
-  background-image: url("/img/local4.jpg");
+  background-image: url("../img/local4.jpg");
 }
 .main .local .container .col .slider .slide.foto5 {
-  background-image: url("/img/empleados.jpg");
+  background-image: url("../img/empleados.jpg");
 }
 .main .menu-platos {
   padding: 5.625rem 0;
@@ -437,7 +437,7 @@ header .menu-bar-movil .slideMenu .menu-principal a {
 .main .contacto .datos {
   padding: 5.625rem 0 11.875rem 0;
   position: relative;
-  background-image: url('/img/pan.jpg');
+  background-image: url('../img/pan.jpg');
   background-size: cover;
   background-position: center;
 }
